@@ -1,12 +1,12 @@
 const config = {
     maintenance: false,
-    name: "Test name",
-    motto: "Motto!",
+    name: "Boblox",
+    motto: "Powering Copyright!",
     social_media:{
-        twitter:"",
+        twitter:"https://twitter.com/experilux",
         discord:"",
         guilded:"",
-        youtube:"",
+        youtube:"https://youtube.com/c/experilux",
     },
     forums:{
         postRate: 1, // one post every 15 seconds
@@ -41,9 +41,9 @@ const config = {
     },
 
     currency: {
-        currency: "Vloxys",
-        currencyIcon: "link",
-        starterCurrency: 10, // Starter Currency
+        currency: "Bobux",
+        currencyIcon: "https://ibb.co/Ld0PRJg",
+        starterCurrency: 50, // Starter Currency
 
     },
     memberShip:{
@@ -54,10 +54,10 @@ const config = {
     },
     bootsrapTheme: "flatly", // https://bootswatch.com/
 
-    site_icon: "",
+    site_icon: "https://ibb.co/683j1bn",
 
-    jwt_Key: "", // Write random crap here and then encrypt it on this website https://bcrypt-generator.com/, after that paste what you got here.
-    jwt_Key2: "", // Write random crap here and then encrypt it on this website https://bcrypt-generator.com/, after that paste what you got here.
+    jwt_Key: "$2y$12$GRde9J1RNDBe2vwtgsXR7OeSurIhUw8Ah0BDvOuYmERXKXSQ/WBBW", // Write random crap here and then encrypt it on this website https://bcrypt-generator.com/, after that paste what you got here.
+    jwt_Key2: "$2y$12$ya9kwKVU/5Q9OkmyxbbY.OHJVGIvoc.nT7SSDGoT/6fDAv0SqVt2q", // Write random crap here and then encrypt it on this website https://bcrypt-generator.com/, after that paste what you got here.
 
 
 
