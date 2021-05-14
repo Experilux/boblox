@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "npm i && node index.js"
+run = "npm run-script Start"
